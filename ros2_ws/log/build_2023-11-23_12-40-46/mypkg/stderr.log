@@ -1,0 +1,5 @@
+  File "/root/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg/talker.py", line 1
+    improt rclpy
+           ^
+SyntaxError: invalid syntax
+
